@@ -1,7 +1,7 @@
 [package]
 name = "zed-mcp-server-newsnow"
-version = "0.0.1"
-edition = "2021"
+version = "0.0.10"
+edition = "2024"
 publish = false
 license = "MIT"
 
@@ -9,5 +9,5 @@ license = "MIT"
 crate-type = ["cdylib"]
 
 [dependencies]
-zed_extension_api = "0.3.0"
+zed_extension_api = "0.6.0"
 serde = "1.0"

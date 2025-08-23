@@ -2,7 +2,7 @@ use std::env;
 use zed_extension_api::{self as zed, Command, ContextServerId, Project, Result};
 
 const PACKAGE_NAME: &str = "newsnow-mcp-server";
-const PACKAGE_VERSION: &str = "0.0.8";
+const PACKAGE_VERSION: &str = "0.0.10";
 const SERVER_PATH: &str = "node_modules/newsnow-mcp-server/dist/index.js";
 
 struct NewsNowModelContextExtension;
