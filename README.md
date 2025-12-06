@@ -4,4 +4,4 @@ Zed Extension for [newsnow-mcp-server](https://github.com/ourongxing/newsnow-mcp
 
 ### Available Tools
 
-- get_hotest_latest_news
+- `get_hottest_latest_news`
